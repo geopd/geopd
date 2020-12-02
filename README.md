@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/geopd/geopd/blob/master/cat.gif" width="450px">
+  <img src="https://github.com/geopd/geopd/blob/master/snowflake.gif" height="450px" width="700px">
   <br><br>
   <samp>
     :wave: Hello! Hooman
