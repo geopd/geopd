@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://github.com/geopd/geopd/blob/master/santa.gif" height="200">
-  <br><br>
   <samp>
-    :wave: Hello! Hooman
-      <img src="https://github.com/geopd/geopd/blob/master/heart.gif" width="27px">
+    :wave: Hello! Everyone
   </samp>
   <br>
   <p align="center">
